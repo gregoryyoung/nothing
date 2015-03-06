@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>Who cares</authors>
+    <owners>Who cares</owners>
+    <licenseUrl>http://www.wtfpl.net/</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A standardized unit type. Be sure to make your own</description>
+    <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
+    <copyright>Copyright 2015</copyright>
+    <tags>Unit Nothing DowloadMe</tags>
+  </metadata>
+</package>

@@ -1,0 +1,5 @@
+C:\Users\Greg\src\shitbird\Unit\bin\Debug\Unit.dll
+C:\Users\Greg\src\shitbird\Unit\bin\Debug\Unit.pdb
+C:\Users\Greg\src\shitbird\Unit\obj\Debug\Unit.csprojResolveAssemblyReference.cache
+C:\Users\Greg\src\shitbird\Unit\obj\Debug\Unit.dll
+C:\Users\Greg\src\shitbird\Unit\obj\Debug\Unit.pdb
