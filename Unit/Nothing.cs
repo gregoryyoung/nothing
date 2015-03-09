@@ -3,7 +3,7 @@
     /// <summary>
     /// This class should be used instead of void for return types.
     /// </summary>
-    public class Nothing
+    public sealed class Nothing
     {
         public static readonly Nothing Instance = new Nothing();
 
