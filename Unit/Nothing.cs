@@ -9,9 +9,6 @@
 
         private Nothing() { }
 
-        public override string ToString()
-        {
-            return "Nothing";
-        }
+        public override string ToString() => "Nothing";
     }
 }
